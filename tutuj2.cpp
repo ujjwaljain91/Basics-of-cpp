@@ -1,17 +1,11 @@
-//****************reference variables**********************
-// ujjwal jain------>ujjwal----->ujju--------->dangerous man
-
-#include <iostream>
+#include<iostream>
 using namespace std;
-
-
+// THIS IS 
+// UJJWAL 
+// JAIN
+//This program was created by ujjwal
 int main(){
-    float x =452;
-    float  & y =x;
-    
-    cout<<x<<endl;
-    cout<<y<<endl;
+    int sum = 123;
+    cout<<"Hello world" <<sum;
     return 0;
-
-
 }
